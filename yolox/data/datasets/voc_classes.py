@@ -13,9 +13,7 @@ VOC_CLASSES = (
     "Yellow",    
     "off",
     "RedStraight",
-    'RedStraightLeft',
-    'RedStraightRight',
+    "RedStraightLeft",
     "GreenStraight",
-    'GreenStraightRight',
-    'GreenStraightLeft'
+    "GreenStraightRight"
 )
